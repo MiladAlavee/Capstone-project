@@ -69,7 +69,7 @@ Feature: Retail Home Page
   @fiftheen
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     When User click on Sign in option
-    And User enter email 'Aqil.Alavee@gmail.com' and password 'Cat@12345'
+    And User enter email 'Aqil.Alavee@gmail.com' and password 'Qand@12345'
     And User click on login button
     And User should be logged in into Account
     And User change the Category to 'Electronics'

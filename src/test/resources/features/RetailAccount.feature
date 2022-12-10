@@ -10,7 +10,7 @@ Feature: Retail Account Page
   @third
   Scenario: Verify User can update Profile Information
     When User click on Account option
-    And User update Name 'Ahmad' and Phone '323-323-5555'
+    And User update Name 'pari' and Phone '323-333-5555'
     And User click on Update button
     Then user profile information should be updated
 
@@ -19,7 +19,7 @@ Feature: Retail Account Page
     When User click on Account option
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | Qand@12345       | Cat@12345   | Cat@12345       |
+      | Cat@12345       | Qand@12345   | Qand@12345       |
     And User click on Change Password button
     Then a message should be displayed Password Updated Successfully
 

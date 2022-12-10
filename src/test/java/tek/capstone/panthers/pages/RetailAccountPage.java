@@ -17,13 +17,15 @@ public class RetailAccountPage extends BaseSetup {
 	
 	@FindBy(id="nameInput")
 	public WebElement nameOpt;
-	
-	@FindBy(xpath ="/html/body/div/div[1]/div[1]/div[3]/div/div[1]/div/div[2]/div/div[1]/form/div[2]/input")
+
+	@FindBy(xpath="/html/body/div/div[1]/div[1]/div[3]/div/div[1]/div/div[2]/div/div[1]/form/div[2]/input")
 	public WebElement phoneOpt;
 	
 	@FindBy(id="personalUpdateBtn")
 	public WebElement updateBtn;
 	
+	@FindBy(xpath="//div[text()='Personal Information Updated Successfully'")
+	public WebElement personalInfoUpdMsg;
 	
 	@FindBy(id="previousPasswordInput")
 	public WebElement previousPassInput;

@@ -1882,3 +1882,121 @@
 2022-11-27 08:37:27,287 [main] INFO logger_File - User should be logged in into Account
 2022-11-27 08:37:27,732 [main] INFO logger_File - User click on Orders section
 2022-11-27 08:37:28,107 [main] INFO logger_File - User click on Cancel The Order button
+2022-12-10 11:02:01,477 [main] INFO logger_File - User is on retail website
+2022-12-10 11:02:01,607 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:02:01,855 [main] INFO logger_File - User entered emailAqil.Alavee@gmail.comand passwordCat@12345
+2022-12-10 11:02:01,943 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:02:01,964 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:02:02,431 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:02:02,806 [main] INFO logger_File - user updated the Name and Phone
+2022-12-10 11:02:02,895 [main] INFO logger_File - user clicked on update button
+2022-12-10 11:02:39,377 [main] INFO logger_File - User is on retail website
+2022-12-10 11:02:39,520 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:02:39,770 [main] INFO logger_File - User entered emailAqil.Alavee@gmail.comand passwordCat@12345
+2022-12-10 11:02:39,852 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:02:39,870 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:02:40,338 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:02:40,707 [main] INFO logger_File - user updated the Name and Phone
+2022-12-10 11:03:23,261 [main] INFO logger_File - User is on retail website
+2022-12-10 11:03:23,410 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:03:23,656 [main] INFO logger_File - User entered emailAqil.Alavee@gmail.comand passwordCat@12345
+2022-12-10 11:03:23,736 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:03:23,757 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:03:24,244 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:03:24,621 [main] INFO logger_File - user updated the Name and Phone
+2022-12-10 11:03:24,711 [main] INFO logger_File - user clicked on update button
+2022-12-10 11:04:47,724 [main] INFO logger_File - User is on retail website
+2022-12-10 11:04:47,864 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:04:48,136 [main] INFO logger_File - User entered emailAqil.Alavee@gmail.comand passwordCat@12345
+2022-12-10 11:04:48,217 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:04:48,245 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:04:48,691 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:04:49,064 [main] INFO logger_File - user updated the Name and Phone
+2022-12-10 11:04:49,167 [main] INFO logger_File - user clicked on update button
+2022-12-10 11:09:48,784 [main] INFO logger_File - User is on retail website
+2022-12-10 11:09:48,926 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:09:49,179 [main] INFO logger_File - User entered emailAqil.Alavee@gmail.comand passwordCat@12345
+2022-12-10 11:09:49,260 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:09:49,282 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:09:49,722 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:09:50,058 [main] INFO logger_File - user updated the Name and Phone
+2022-12-10 11:09:50,162 [main] INFO logger_File - user clicked on update button
+2022-12-10 11:13:38,538 [main] INFO logger_File - User is on retail website
+2022-12-10 11:13:38,729 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:13:39,081 [main] INFO logger_File - User entered emailAqil.Alavee@gmail.comand passwordCat@12345
+2022-12-10 11:13:39,209 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:13:39,242 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:13:39,679 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:13:40,201 [main] INFO logger_File - user updated the Name and Phone
+2022-12-10 11:13:40,321 [main] INFO logger_File - user clicked on update button
+2022-12-10 11:15:39,810 [main] INFO logger_File - User is on retail website
+2022-12-10 11:15:39,941 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:15:40,200 [main] INFO logger_File - User entered emailAqil.Alavee@gmail.comand passwordCat@12345
+2022-12-10 11:15:40,279 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:15:40,302 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:15:40,777 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:15:41,153 [main] INFO logger_File - user updated the Name and Phone
+2022-12-10 11:15:41,237 [main] INFO logger_File - user clicked on update button
+2022-12-10 11:19:33,579 [main] INFO logger_File - User is on retail website
+2022-12-10 11:19:33,696 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:19:33,935 [main] INFO logger_File - User entered emailAqil.Alavee@gmail.comand passwordCat@12345
+2022-12-10 11:19:34,016 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:19:34,037 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:19:34,509 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:19:34,838 [main] INFO logger_File - user updated the Name and Phone
+2022-12-10 11:19:34,938 [main] INFO logger_File - user clicked on update button
+2022-12-10 11:22:35,348 [main] INFO logger_File - User is on retail website
+2022-12-10 11:22:35,500 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:22:35,815 [main] INFO logger_File - User entered emailAqil.Alavee@gmail.comand passwordCat@12345
+2022-12-10 11:22:35,924 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:22:35,950 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:22:36,457 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:22:36,956 [main] INFO logger_File - user updated the Name and Phone
+2022-12-10 11:22:37,073 [main] INFO logger_File - user clicked on update button
+2022-12-10 11:27:34,266 [main] INFO logger_File - User is on retail website
+2022-12-10 11:27:34,395 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:27:34,658 [main] INFO logger_File - User entered emailAqil.Alavee@gmail.comand passwordCat@12345
+2022-12-10 11:27:34,745 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:27:34,767 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:27:35,348 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:27:35,709 [main] INFO logger_File - user entered the information
+2022-12-10 11:27:35,791 [main] INFO logger_File - User clicked on change password button
+2022-12-10 11:31:17,712 [main] INFO logger_File - User is on retail website
+2022-12-10 11:31:17,870 [main] INFO logger_File - User click on Sign in option
+2022-12-10 11:31:18,123 [main] INFO logger_File - user enterd email and password
+2022-12-10 11:31:18,210 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:31:18,211 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:31:18,663 [main] INFO logger_File - User click on Orders section
+2022-12-10 11:31:19,224 [main] INFO logger_File - User click on Cancel The Order button
+2022-12-10 11:37:40,235 [main] INFO logger_File - User is on retail website
+2022-12-10 11:37:40,405 [main] INFO logger_File - User click on Sign in option
+2022-12-10 11:37:40,658 [main] INFO logger_File - user enterd email and password
+2022-12-10 11:37:40,741 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:37:40,741 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:38:21,497 [main] INFO logger_File - User is on retail website
+2022-12-10 11:38:21,658 [main] INFO logger_File - User click on Sign in option
+2022-12-10 11:38:21,917 [main] INFO logger_File - user enterd email and password
+2022-12-10 11:38:21,998 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:38:21,999 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:38:22,490 [main] INFO logger_File - User change the category to electronics
+2022-12-10 11:38:22,614 [main] INFO logger_File - User search for an item
+2022-12-10 11:38:22,701 [main] INFO logger_File - User click on Search icon
+2022-12-10 11:38:22,804 [main] INFO logger_File - User clicked on item
+2022-12-10 12:14:24,883 [main] INFO logger_File - User is on retail website
+2022-12-10 12:14:25,036 [main] INFO logger_File - User click on Sign in option
+2022-12-10 12:14:25,278 [main] INFO logger_File - user enterd email and password
+2022-12-10 12:14:25,354 [main] INFO logger_File - User clicked on login button
+2022-12-10 12:14:25,355 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 12:14:25,891 [main] INFO logger_File - User click on Orders section
+2022-12-10 12:14:26,451 [main] INFO logger_File - User click on first order in list
+2022-12-10 12:15:22,407 [main] INFO logger_File - User is on retail website
+2022-12-10 12:15:22,559 [main] INFO logger_File - User click on Sign in option
+2022-12-10 12:15:22,808 [main] INFO logger_File - user enterd email and password
+2022-12-10 12:15:22,884 [main] INFO logger_File - User clicked on login button
+2022-12-10 12:15:22,884 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 12:15:23,357 [main] INFO logger_File - User click on Orders section
+2022-12-10 12:15:23,834 [main] INFO logger_File - User click on first order in list
+2022-12-10 12:15:33,875 [main] INFO logger_File - User click on Return Items button
+2022-12-10 12:15:33,966 [main] INFO logger_File - User select the Return Reason
+2022-12-10 12:15:34,048 [main] INFO logger_File - User select the drop off service
+2022-12-10 12:15:34,131 [main] INFO logger_File - User click on Return Order button
